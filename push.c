@@ -5,7 +5,7 @@
  * @head: stach head pointer.
  * @counter: line number.
  */
-void m_push(stack_t **head, unsigned int counter)
+void f_push(stack_t **head, unsigned int counter)
 {
 	int n, j = 0, flag = 0;
 
